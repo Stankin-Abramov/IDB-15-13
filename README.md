@@ -4,7 +4,7 @@
 
 Лабораторная 1
 ```
-![none]()
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/screen1.png)
 ```
 Лабораторная 2
 
