@@ -4,12 +4,14 @@
 Создание IDEF0-диаграммы "Обновление приложения мо методологии Agile" в RAMUS (программное средство разработки структурно-функциональных моделей)
 IDEF0-диаграмма в развернутом виде:
 
-![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/screen1.png)
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/1%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/5%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/4%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
 
 Лабораторная 2
-
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/2%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
 Лабораторная 3
-
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/3%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
 Лабораторная 4
 
 Лабораторная 5
