@@ -11,9 +11,12 @@
 * Текст и рисунок диаграммы классов 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/4%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
 
-Лабораторная 2
+## Лабораторная работа №2
+* IDEF0 (png) 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/2%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
-Лабораторная 3
+## Лабораторная работа №3
+Определение надсистемы (среды функционирования) 
+* Plan-Do-Check (png) 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/3%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
 Лабораторная 4
 
