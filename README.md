@@ -20,7 +20,12 @@
 * Plan-Do-Check (png) 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/3%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
 ## Лабораторная работа №3
-
+* DFD Определение требований к ПК
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/скрин%206.png)
+* DFD Сборка комплектующих
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/скрин%207.png)
+* DFD Проверка/Тестирование
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/скрин%208.png)
 Лабораторная 4
 
 Лабораторная 5
