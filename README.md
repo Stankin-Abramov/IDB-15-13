@@ -21,6 +21,7 @@
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/3%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png)
 ## Лабораторная работа №3
 * А0.
+
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/скрин%209.jpg)
 * DFD А1. Определение требований к ПК
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/скрин%206.png)
