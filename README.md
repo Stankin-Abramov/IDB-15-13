@@ -38,4 +38,15 @@
 * Формальное определение темы курсового проекта: Проектирование информационной системы оформления договора ренты парковочного места
 ## Разработка диаграмм в RAMUS
 * Контекстная диаграмма А0 - "Предоставление парковочной услуги"
-![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/скрин%208.png)
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/01_A0.png)
+Декомпозиция диаграммы уровня А0 (А1-А3) на три блока
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/02_A0.png)
+* Декомпозиция блока А1 "Заключение договора"
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/03_A1.png)
+* Декомпозиция блока А2 "Предоставить место стоянки"
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/04_A2.png)
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/05_A21.png)
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/06_A22.png)
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/07_A23.png)
+
+
