@@ -45,8 +45,11 @@
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/03_A1.png)
 * Декомпозиция блока А2 "Предоставить место стоянки"
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/04_A2.png)
+* Декомпозиция блока А21 "Получить данные об автомобиле клиента" 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/05_A21.png)
+* Декомпозиция блока А22 "Получить данные об автомобиле клиента" 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/06_A22.png)
+* Декомпозиция блока А23 "Получить данные об автомобиле клиента" 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/07_A23.png)
 
 
