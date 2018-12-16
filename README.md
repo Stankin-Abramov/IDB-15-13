@@ -52,4 +52,10 @@
 * Декомпозиция блока А23 "Получить данные об автомобиле клиента" 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/07_A23.png)
 
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/T2UFKa3YPpo.jpg)
 
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/AAHC92P7H0g.jpg)
+
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/ps5zoNMOQZA.jpg)
+
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/Untitled%20Diagram.png)
