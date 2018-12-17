@@ -50,9 +50,13 @@
 * Декомпозиция блока А22 "Получить данные об автомобиле клиента" 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/06_A22.png)
 * Декомпозиция блока А23 "Получить данные об автомобиле клиента"
-![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/таблицы.png)
-* Определение допустимых видов хранилищ и их размещения:
+
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/07_A23.png)
+
+* Определение допустимых видов хранилищ и их размещения:
+
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/таблицы.png)
+
 ## Завершение идентификации всех потоков
 * Построение ERD-диаграммы для всех потоков
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/T2UFKa3YPpo.jpg)
