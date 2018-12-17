@@ -49,15 +49,18 @@
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/05_A21.png)
 * Декомпозиция блока А22 "Получить данные об автомобиле клиента" 
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/06_A22.png)
-* Декомпозиция блока А23 "Получить данные об автомобиле клиента" 
+* Декомпозиция блока А23 "Получить данные об автомобиле клиента"
+![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/таблицы.png)
+* Определение допустимых видов хранилищ и их размещения:
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/07_A23.png)
-
+## Завершение идентификации всех потоков
+* Построение ERD-диаграммы для всех потоков
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/T2UFKa3YPpo.jpg)
-
+* Построение ERD-диаграммы для всех ролей
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/AAHC92P7H0g.jpg)
-
+* Построение ERD-диаграммы для всех модулей
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/ps5zoNMOQZA.jpg)
-
+* Диаграмма последовательностей
 ![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/Untitled%20Diagram.png)
 
 ## Эффект проекта
