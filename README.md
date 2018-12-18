@@ -77,4 +77,4 @@
 ## Определение числа и сложности функциональных точек для модулей: 6 модулей (2 модуля обработки, 4 экранных модуля)
 
 ## Текстовая часть
-![none](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/Курсовая%20RAMUS%20Абрамов%20Д.В..pdf)
+![PDF-файл](https://github.com/Stankin-Abramov/IDB-15-13.Abramov/blob/master/Курсовая%20RAMUS%20Абрамов%20Д.В..pdf)
